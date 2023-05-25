@@ -1,0 +1,15 @@
+C:\Users\малик\Desktop\HomeWork\HomeWork_Task11\obj\Debug\net6.0\HomeWork_Task11.csproj.AssemblyReference.cache
+C:\Users\малик\Desktop\HomeWork\HomeWork_Task11\obj\Debug\net6.0\HomeWork_Task11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\малик\Desktop\HomeWork\HomeWork_Task11\obj\Debug\net6.0\HomeWork_Task11.AssemblyInfoInputs.cache
+C:\Users\малик\Desktop\HomeWork\HomeWork_Task11\obj\Debug\net6.0\HomeWork_Task11.AssemblyInfo.cs
+C:\Users\малик\Desktop\HomeWork\HomeWork_Task11\obj\Debug\net6.0\HomeWork_Task11.csproj.CoreCompileInputs.cache
+C:\Users\малик\Desktop\HomeWork\HomeWork_Task11\bin\Debug\net6.0\HomeWork_Task11.exe
+C:\Users\малик\Desktop\HomeWork\HomeWork_Task11\bin\Debug\net6.0\HomeWork_Task11.deps.json
+C:\Users\малик\Desktop\HomeWork\HomeWork_Task11\bin\Debug\net6.0\HomeWork_Task11.runtimeconfig.json
+C:\Users\малик\Desktop\HomeWork\HomeWork_Task11\bin\Debug\net6.0\HomeWork_Task11.dll
+C:\Users\малик\Desktop\HomeWork\HomeWork_Task11\bin\Debug\net6.0\HomeWork_Task11.pdb
+C:\Users\малик\Desktop\HomeWork\HomeWork_Task11\obj\Debug\net6.0\HomeWork_Task11.dll
+C:\Users\малик\Desktop\HomeWork\HomeWork_Task11\obj\Debug\net6.0\refint\HomeWork_Task11.dll
+C:\Users\малик\Desktop\HomeWork\HomeWork_Task11\obj\Debug\net6.0\HomeWork_Task11.pdb
+C:\Users\малик\Desktop\HomeWork\HomeWork_Task11\obj\Debug\net6.0\HomeWork_Task11.genruntimeconfig.cache
+C:\Users\малик\Desktop\HomeWork\HomeWork_Task11\obj\Debug\net6.0\ref\HomeWork_Task11.dll
