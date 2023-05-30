@@ -1,0 +1,15 @@
+C:\Users\малик\Desktop\HomeWork\HomeWork_Tasl16\bin\Debug\net6.0\HomeWork_Tasl16.exe
+C:\Users\малик\Desktop\HomeWork\HomeWork_Tasl16\bin\Debug\net6.0\HomeWork_Tasl16.deps.json
+C:\Users\малик\Desktop\HomeWork\HomeWork_Tasl16\bin\Debug\net6.0\HomeWork_Tasl16.runtimeconfig.json
+C:\Users\малик\Desktop\HomeWork\HomeWork_Tasl16\bin\Debug\net6.0\HomeWork_Tasl16.dll
+C:\Users\малик\Desktop\HomeWork\HomeWork_Tasl16\bin\Debug\net6.0\HomeWork_Tasl16.pdb
+C:\Users\малик\Desktop\HomeWork\HomeWork_Tasl16\obj\Debug\net6.0\HomeWork_Tasl16.csproj.AssemblyReference.cache
+C:\Users\малик\Desktop\HomeWork\HomeWork_Tasl16\obj\Debug\net6.0\HomeWork_Tasl16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\малик\Desktop\HomeWork\HomeWork_Tasl16\obj\Debug\net6.0\HomeWork_Tasl16.AssemblyInfoInputs.cache
+C:\Users\малик\Desktop\HomeWork\HomeWork_Tasl16\obj\Debug\net6.0\HomeWork_Tasl16.AssemblyInfo.cs
+C:\Users\малик\Desktop\HomeWork\HomeWork_Tasl16\obj\Debug\net6.0\HomeWork_Tasl16.csproj.CoreCompileInputs.cache
+C:\Users\малик\Desktop\HomeWork\HomeWork_Tasl16\obj\Debug\net6.0\HomeWork_Tasl16.dll
+C:\Users\малик\Desktop\HomeWork\HomeWork_Tasl16\obj\Debug\net6.0\refint\HomeWork_Tasl16.dll
+C:\Users\малик\Desktop\HomeWork\HomeWork_Tasl16\obj\Debug\net6.0\HomeWork_Tasl16.pdb
+C:\Users\малик\Desktop\HomeWork\HomeWork_Tasl16\obj\Debug\net6.0\HomeWork_Tasl16.genruntimeconfig.cache
+C:\Users\малик\Desktop\HomeWork\HomeWork_Tasl16\obj\Debug\net6.0\ref\HomeWork_Tasl16.dll
