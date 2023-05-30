@@ -1,0 +1,15 @@
+C:\Users\малик\Desktop\HomeWork\HomeWork_Task19\obj\Debug\net6.0\HomeWork_Task19.csproj.AssemblyReference.cache
+C:\Users\малик\Desktop\HomeWork\HomeWork_Task19\obj\Debug\net6.0\HomeWork_Task19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\малик\Desktop\HomeWork\HomeWork_Task19\obj\Debug\net6.0\HomeWork_Task19.AssemblyInfoInputs.cache
+C:\Users\малик\Desktop\HomeWork\HomeWork_Task19\obj\Debug\net6.0\HomeWork_Task19.AssemblyInfo.cs
+C:\Users\малик\Desktop\HomeWork\HomeWork_Task19\obj\Debug\net6.0\HomeWork_Task19.csproj.CoreCompileInputs.cache
+C:\Users\малик\Desktop\HomeWork\HomeWork_Task19\bin\Debug\net6.0\HomeWork_Task19.exe
+C:\Users\малик\Desktop\HomeWork\HomeWork_Task19\bin\Debug\net6.0\HomeWork_Task19.deps.json
+C:\Users\малик\Desktop\HomeWork\HomeWork_Task19\bin\Debug\net6.0\HomeWork_Task19.runtimeconfig.json
+C:\Users\малик\Desktop\HomeWork\HomeWork_Task19\bin\Debug\net6.0\HomeWork_Task19.dll
+C:\Users\малик\Desktop\HomeWork\HomeWork_Task19\bin\Debug\net6.0\HomeWork_Task19.pdb
+C:\Users\малик\Desktop\HomeWork\HomeWork_Task19\obj\Debug\net6.0\HomeWork_Task19.dll
+C:\Users\малик\Desktop\HomeWork\HomeWork_Task19\obj\Debug\net6.0\refint\HomeWork_Task19.dll
+C:\Users\малик\Desktop\HomeWork\HomeWork_Task19\obj\Debug\net6.0\HomeWork_Task19.pdb
+C:\Users\малик\Desktop\HomeWork\HomeWork_Task19\obj\Debug\net6.0\HomeWork_Task19.genruntimeconfig.cache
+C:\Users\малик\Desktop\HomeWork\HomeWork_Task19\obj\Debug\net6.0\ref\HomeWork_Task19.dll
